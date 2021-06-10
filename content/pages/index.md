@@ -86,7 +86,8 @@ sections:
         title_align: left
         content: >
           Say goodbye to copy and paste. Dashtify handles all the underneath
-          data processing. All you need is to analyse the data.
+          data processing. All you need is to analyse the data via our
+          Dashboard.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
