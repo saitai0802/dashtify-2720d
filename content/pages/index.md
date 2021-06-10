@@ -39,7 +39,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose Dash?
+    title: Why Choose Dashtify?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
