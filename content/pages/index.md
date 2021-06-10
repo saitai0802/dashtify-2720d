@@ -71,7 +71,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: '3'
+      - title: 'Connect '
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
