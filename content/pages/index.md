@@ -82,7 +82,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: No more copy and paste
+      - title: No More Copy And Paste
         title_align: left
         content: >
           Say goodbye to copy and paste. Dashtify handles all the underneath
