@@ -80,7 +80,7 @@ sections:
       - title: >-
           “I love how lightweight and easy it is to view all marketing data in
           one place.”
-        subtitle: 'Ursula Gurnmeister, Sr. Marketing Manager at Company'
+        subtitle: 'Ursula Gurnmeister, Sr. Marketing Manager at ABC Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
