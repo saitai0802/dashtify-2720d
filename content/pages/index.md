@@ -79,7 +79,8 @@ sections:
     features:
       - title: >-
           “I love how lightweight and easy it is to view all the marketing data
-          in one place.
+          in one place. It intuitively builds into my day-to-day rhythm, and the
+          natural flow of my day.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
