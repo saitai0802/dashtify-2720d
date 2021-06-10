@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Marketing '
+    title: Marketing Dashboard in one place
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
