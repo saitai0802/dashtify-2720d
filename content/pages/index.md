@@ -73,10 +73,9 @@ sections:
     grid_items:
       - title: Connect with Google Ads
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          After connecting your Google Ads account, Dashtify will collect the
+          marketing data you need to generate insight via our dashboard
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
