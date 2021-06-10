@@ -93,7 +93,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: New data
+      - title: New data everyday
         title_align: left
         content: >
           With our data engine, you will get the latest marketing data every 6
