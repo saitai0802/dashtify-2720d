@@ -84,9 +84,9 @@ sections:
         image_has_padding: true
       - title: No more copy and paste
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          Say goodbye to copy and paste. Dashtify handles all the underneath
+          data processing. All you need is to analyse the data.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
