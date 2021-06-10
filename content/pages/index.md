@@ -108,8 +108,8 @@ sections:
       - title: Your Marketing Insight
         title_align: left
         content: >
-          Dashtify provides some default marketing dashboards to let you save
-          time for creating repeated dashboards.
+          Dashtify provides default marketing dashboards to make you more
+          efficient.
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
