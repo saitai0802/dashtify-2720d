@@ -77,7 +77,9 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: “I love how lightweight and easy it is to view all data in one place.”
+      - title: >-
+          “I love how lightweight and easy it is to view all marketing data in
+          one place.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
