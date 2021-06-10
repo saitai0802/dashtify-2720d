@@ -1,5 +1,5 @@
 ---
-title: 'The Benefits and Value of Using '
+title: The Benefits and Value of Using Dashtify
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
