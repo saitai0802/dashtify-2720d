@@ -42,9 +42,9 @@ sections:
     title: Why Choose Dashtify?
     features:
       - title: All the Marketing Data You Need to Improve Yourself
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          With Dashtify, you can measure your marketing performance and track
+          your progress via our awesome dashboard.
         actions:
           - label: Learn More
             url: /thank-you
