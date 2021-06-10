@@ -82,7 +82,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: What not to do
+      - title: om oN
         title_align: left
         content: >-
           Quit bad habits. Track any bad actions with YourGoal that sabotage
