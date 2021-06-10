@@ -1,5 +1,5 @@
 ---
-title: What Are The Dashboard we provide?
+title: What Are The Dashboards we provide?
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
