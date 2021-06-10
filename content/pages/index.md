@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Marketing data in one place
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Spending
     actions:
       - label: Try for free
         url: /pricing
