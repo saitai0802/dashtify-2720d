@@ -1,5 +1,5 @@
 ---
-title: How to Set Up The Connection The Right Way
+title: How to Set Up The Google Connection The Right Way
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
