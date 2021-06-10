@@ -95,10 +95,9 @@ sections:
         image_has_padding: true
       - title: Up to date data
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          With our data engine, you will get the latest marketing data every 6
+          hours.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
