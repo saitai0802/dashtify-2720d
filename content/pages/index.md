@@ -41,7 +41,7 @@ sections:
   - type: features_section
     title: Why Choose Dashtify?
     features:
-      - title: 'All the Marketing Data You Need to '
+      - title: All the Marketing Data You Need to Generate
         content: >
           With Dashtify, you can measure your marketing performance and track
           your progress via our awesome dashboard.
