@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Marketing data in one place
-    subtitle: 'Saving your time for '
+    subtitle: Saving your time for bu
     actions:
       - label: Try for free
         url: /pricing
