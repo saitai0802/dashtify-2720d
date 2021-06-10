@@ -71,7 +71,7 @@ sections:
   - type: grid_section
     title: How it works
     grid_items:
-      - title: Connect with Google
+      - title: Connect with Google Ads
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
