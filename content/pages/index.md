@@ -33,7 +33,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.png
+        image: /images/feature-1-v1.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
