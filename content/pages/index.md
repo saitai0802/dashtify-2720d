@@ -94,8 +94,9 @@ sections:
       - title: No fluff dashboard
         title_align: left
         content: >
-          Dashtify provides default marketing dashboards to make you more
-          efficient.
+          We build your dashboard with only the stats that matter, customised
+          for you. Our team of seasoned marketers & data analysts know what’s
+          worth looking at, no vanity metrics to sidetrack on.
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
