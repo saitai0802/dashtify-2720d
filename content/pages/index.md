@@ -106,7 +106,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    subtitle: 'Tracking is hard, we’ve been there before. '
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
