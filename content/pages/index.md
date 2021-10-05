@@ -55,7 +55,7 @@ sections:
   - type: grid_section
     title: Why us?
     grid_items:
-      - title: Connect with Google Ads
+      - title: Seamless integration.
         title_align: left
         content: >
           After connecting your Google Ads account, Dashtify will collect the
