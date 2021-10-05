@@ -70,9 +70,9 @@ sections:
       - title: Real-time data
         title_align: left
         content: >
-          Say goodbye to copy and paste. Dashtify handles all the underneath
-          data processing. All you need is to analyse the data via our
-          Dashboard.
+          Data is gathered automatically every day and refresh is available on
+          demand. Make instant decisions on your marketing campaigns with the
+          most up-to-date data to improve performance.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
