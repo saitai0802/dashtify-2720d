@@ -91,7 +91,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Your Marketing Insight
+      - title: No fluff dashboard
         title_align: left
         content: >
           Dashtify provides default marketing dashboards to make you more
