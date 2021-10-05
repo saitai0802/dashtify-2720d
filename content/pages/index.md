@@ -82,8 +82,9 @@ sections:
       - title: Full view of your marketing funnel
         title_align: left
         content: >
-          With our data engine, you will get the latest marketing data every 6
-          hours.
+          Track all your statistics from ad to conversion, no data is lost along
+          the way. Whether it is a bird’s eye view or a granular drill down, all
+          the stats are available for you.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
