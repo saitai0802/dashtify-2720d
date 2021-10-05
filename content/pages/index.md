@@ -60,7 +60,7 @@ sections:
         content: >
           Just connect your ad accounts and we’ll fetch all the data for you,
           let us do the hard work of connecting to your accounts and combining
-          data sources. Time is money, we know that too
+          data sources. Time is money, we know that too.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
