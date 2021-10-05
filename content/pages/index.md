@@ -53,7 +53,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: How it works
+    title: Why us?
     grid_items:
       - title: Connect with Google Ads
         title_align: left
