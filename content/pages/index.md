@@ -55,7 +55,7 @@ sections:
   - type: grid_section
     title: Why us?
     grid_items:
-      - title: Seamless integration.
+      - title: Seamless integration
         title_align: left
         content: >
           Just connect your ad accounts and we’ll fetch all the data for you,
