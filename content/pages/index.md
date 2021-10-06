@@ -79,7 +79,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Full view of your marketing funnel
+      - title: Full view of your data
         title_align: left
         content: >
           Track all your statistics from ad to conversion, no data is lost along
