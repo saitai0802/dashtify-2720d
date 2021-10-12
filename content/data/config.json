@@ -85,7 +85,7 @@
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "Terms of Services",
+                "label": "Terms of Service",
                 "url": "/terms-conditions",
                 "style": "link"
             },
