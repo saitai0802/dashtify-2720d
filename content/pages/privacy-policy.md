@@ -21,6 +21,10 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
+**Last updated October 12, 2021**
+
+
+
 Privacy Policy for OFURIE
 
 At OFURIE, accessible from https://dashtify-2720d.netlify.app/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by OFURIE and how we use it.
