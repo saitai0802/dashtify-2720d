@@ -17,7 +17,9 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    subtitle: In-depth marketing analytics to improve ROI
+    subtitle: >-
+      Here at ofurie, we leverage data that matters to drive growth and improve
+      ROI. It's our expertise to track
   - type: features_section
     title: Our process
     features:
