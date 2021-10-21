@@ -31,8 +31,7 @@ sections:
         media_position: right
         media_width: sixty
         title: Campaign's gone live? Your work is not done.
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
