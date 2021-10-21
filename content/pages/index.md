@@ -87,7 +87,7 @@ sections:
           for you. Our team of seasoned marketers & data analysts know what’s
           worth looking at, no vanity metrics to sidetrack on.
         content_align: left
-        image: images/icon-4.svg
+        image: /images/icons8-web-analytics-96.png
         image_alt: Section item 4 icon
         image_position: top
         image_align: left
