@@ -18,7 +18,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    subtitle: Leverage data that matters to drive great conversion rates
+    subtitle: In-depth marketing analytics to help you drive great conversion rates
   - type: features_section
     title: Why Choose Dashtify?
     features:
