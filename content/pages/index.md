@@ -21,8 +21,7 @@ sections:
   - type: features_section
     title: Our process
     features:
-      - title: 'Plan, Tag, Analyse'
-        content: >
+      - content: >
           With Dashtify, you can measure your marketing performance and track
           your progress via our awesome dashboard.
         actions: []
