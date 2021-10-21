@@ -34,7 +34,7 @@
     "footer": {
         "logo": "/images/Screenshot 2021-10-21 at 11.28.27.png",
         "logo_alt": "ofurie",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
