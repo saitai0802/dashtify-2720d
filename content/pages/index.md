@@ -75,7 +75,7 @@ sections:
           the way. Whether it is a bird’s eye view or a granular drill down, all
           the stats are available for you.
         content_align: left
-        image: images/icon-3.svg
+        image: /images/icons8-mind-map-96.png
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
