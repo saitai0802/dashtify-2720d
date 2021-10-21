@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: In-depth marketing analytics
-    subtitle: Drive great conversion rates by understanding
+    subtitle: Leverage great
     actions:
       - label: Try for free
         url: /pricing
