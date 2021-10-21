@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Leverage data that matters
     actions:
-      - label: Take a look
+      - label: Learn how
         url: /pricing
         style: primary
     image: /images/hero2.png
