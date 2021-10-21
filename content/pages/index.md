@@ -124,7 +124,6 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: Name
         default_value: Name
         options: []
         is_required: false
