@@ -26,13 +26,7 @@ sections:
         content: >
           With Dashtify, you can measure your marketing performance and track
           your progress via our awesome dashboard.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/feature-1-v1.png
         image_alt: Feature 1 placeholder image
         media_position: right
