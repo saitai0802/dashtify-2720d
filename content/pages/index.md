@@ -63,7 +63,7 @@ sections:
           demand. Make instant decisions on your marketing campaigns with the
           most up-to-date data to improve performance.
         content_align: left
-        image: images/icon-2.svg
+        image: /images/icons8-data-transfer-96.png
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
