@@ -46,9 +46,8 @@ sections:
       - title: Seamless integration
         title_align: left
         content: >
-          Just connect your ad accounts and we’ll fetch all the data for you,
-          let us do the hard work of connecting to your accounts and combining
-          data sources. Time is money, we know that too.
+          Just connect your ad accounts and let us do the hard work of fetching
+          data from relevant data sources. Time is money, we know that too.
         content_align: left
         image: /images/icons8-genealogy-96.png
         image_alt: Section item 1 icon
