@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: In-depth ad to conversion analysis
+    title: In-depth marketing analytics
     subtitle: Measure your conversion rates
     actions:
       - label: Try for free
