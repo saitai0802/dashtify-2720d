@@ -108,17 +108,12 @@ sections:
     background_image_opacity: 10
   - section_id: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Drop us a line
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Interested in knowing more? Leave your details and we'll get right back to
+      you.
     content_align: left
     form_position: bottom
     form_width: fifty
