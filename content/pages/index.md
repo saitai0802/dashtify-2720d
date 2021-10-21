@@ -55,7 +55,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        image_width: thirty-three
+        image_width: twenty-five
       - title: Real-time data
         title_align: left
         content: >
