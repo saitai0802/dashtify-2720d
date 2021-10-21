@@ -83,9 +83,9 @@ sections:
       - title: No fluff dashboard
         title_align: left
         content: >
-          We build your dashboard with only the stats that matter, customised
-          for you. Our team of seasoned marketers & data analysts know what’s
-          worth looking at, no vanity metrics to sidetrack on.
+          We build your dashboard with only the stats that matter. Our team of
+          seasoned marketers & data analysts know what’s worth looking at, no
+          vanity metrics to sidetrack on.
         content_align: left
         image: /images/icons8-web-analytics-96.png
         image_alt: Section item 4 icon
