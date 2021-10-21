@@ -19,7 +19,7 @@ sections:
     background_image_opacity: 60
     subtitle: >-
       Here at ofurie, we leverage data that matters to drive growth and improve
-      ROI. In simpler terms, we track your marketing funnel (furiously!)
+      ROI.
   - type: features_section
     title: Our process
     features:
