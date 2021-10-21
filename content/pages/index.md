@@ -29,7 +29,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-        title: We get dirty with data
+        title: Getting ads live is just step 1.
     feature_padding_vert: large
     align: center
     background_color: none
