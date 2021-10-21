@@ -93,10 +93,7 @@ sections:
     title: Ready to get started?
     content: |
       Drop us a line and we'll get right back to you!
-    actions:
-      - label: Try for free
-        url: /thank-you
-        style: primary
+    actions: []
     actions_width: fourty
     align: center
     padding_top: large
