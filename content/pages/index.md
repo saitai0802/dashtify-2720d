@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We leverage data that matters
+    title: Leverage data that matters
     actions:
       - label: Learn how
         url: /pricing
