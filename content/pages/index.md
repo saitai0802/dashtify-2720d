@@ -108,7 +108,6 @@ sections:
     background_image_opacity: 10
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
