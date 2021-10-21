@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Increase your ad returns
+    title: In-depth marketing analytics to increase your ad returns.
     actions:
       - label: Learn how
         url: /pricing
