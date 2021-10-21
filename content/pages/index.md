@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Improve Leverage data that matters
+    title: Increase your ad returnsLeverage data that matters
     actions:
       - label: Learn how
         url: /pricing
