@@ -125,7 +125,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Name
-        default_value: lorem-ipsum
+        default_value: Name
         options: []
         is_required: false
     submit_label: lorem-ipsum
