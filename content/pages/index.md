@@ -50,7 +50,7 @@ sections:
           let us do the hard work of connecting to your accounts and combining
           data sources. Time is money, we know that too.
         content_align: left
-        image: images/icon-1.svg
+        image: /images/icons8-genealogy-96.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
