@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: In-depth marketing analytics
-    subtitle: Leverage great
+    subtitle: Leverage data that matters to drive great conversion rates
     actions:
       - label: Try for free
         url: /pricing
