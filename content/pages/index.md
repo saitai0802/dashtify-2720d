@@ -127,7 +127,7 @@ sections:
         default_value: Name
         options: []
         is_required: true
-      - input_type: text
+      - input_type: email
         name: Email
         label: lorem-ipsum
         default_value: lorem-ipsum
