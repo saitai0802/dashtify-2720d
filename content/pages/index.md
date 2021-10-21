@@ -58,9 +58,8 @@ sections:
       - title: Real-time data
         title_align: left
         content: >
-          Data is gathered whenever you need it. Make instant decisions on your
-          marketing campaigns with the most up-to-date data to get the biggest
-          return.
+          Data is gathered whenever you need it. Make instant, informed
+          decisions on your marketing campaigns with the most up-to-date data.
         content_align: left
         image: /images/icons8-data-transfer-96.png
         image_alt: Section item 2 icon
