@@ -22,8 +22,9 @@ sections:
     title: Our process
     features:
       - content: >
-          With Dashtify, you can measure your marketing performance and track
-          your progress via our awesome dashboard.
+          Optimising is the key to ongoing success - much easier said than done.
+          We take your data through a fine tooth comb and come up with stringent
+          test cycles to strategically manage your campaigns.
         actions: []
         image: /images/feature-1-v1.png
         image_alt: Feature 1 placeholder image
