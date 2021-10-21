@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: In-depth ad to conversion analysis
-    subtitle: Saving the time for insights
+    subtitle: Measure your conversion rates
     actions:
       - label: Try for free
         url: /pricing
