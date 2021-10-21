@@ -40,18 +40,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: features_section
-    features:
-      - title: >-
-          “I love how lightweight and easy it is to view all marketing data in
-          one place.”
-        subtitle: 'Ursula Gurnmeister, Sr. Marketing Manager at ABC Company'
-        image: images/testimonials.png
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: none
   - type: grid_section
     title: Why us?
     grid_items:
