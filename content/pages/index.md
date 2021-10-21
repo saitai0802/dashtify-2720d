@@ -129,7 +129,7 @@ sections:
         is_required: true
       - input_type: email
         name: Email
-        default_value: lorem-ipsum
+        default_value: Email
         options: []
         is_required: false
     submit_label: lorem-ipsum
