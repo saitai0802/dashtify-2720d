@@ -30,7 +30,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-        title: Getting ads live is just step 1.
+        title: Campaign's gone live? Your work is not done.
     feature_padding_vert: large
     align: center
     background_color: none
