@@ -92,7 +92,7 @@ sections:
   - type: cta_section
     title: Ready to get started?
     content: |
-      Get in touch with us
+      Get in touch with us!
     actions:
       - label: Try for free
         url: /thank-you
