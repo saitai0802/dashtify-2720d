@@ -17,9 +17,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    subtitle: >-
-      Here at ofurie, we leverage data that matters to drive growth and improve
-      ROI.
+    subtitle: We leverage data that matters to drive growth and improve ROI.
   - type: features_section
     title: Our process
     features:
