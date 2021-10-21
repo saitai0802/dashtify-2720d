@@ -34,7 +34,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Why us?
+    title: Our features
     grid_items:
       - title: Seamless integration
         title_align: left
