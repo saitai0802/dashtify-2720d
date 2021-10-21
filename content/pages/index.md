@@ -30,7 +30,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-        subtitle: Leverage data that matters to drive great conversion rates
     feature_padding_vert: large
     align: center
     background_color: none
