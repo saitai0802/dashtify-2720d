@@ -19,7 +19,7 @@ sections:
     background_image_opacity: 60
     subtitle: In-depth marketing analytics to improve ROI
   - type: features_section
-    title: Ou Process
+    title: How we do it
     features:
       - title: All the Marketing Data You Need to Generate Insights
         content: >
