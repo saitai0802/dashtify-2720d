@@ -128,7 +128,7 @@ sections:
         options: []
         is_required: true
       - input_type: text
-        name: Company
+        name: Email
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
