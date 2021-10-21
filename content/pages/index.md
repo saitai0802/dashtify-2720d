@@ -105,12 +105,6 @@ sections:
     background_image_opacity: 10
   - section_id: lorem-ipsum
     title_align: left
-    content: >
-      ## Drop us a line
-
-
-      Interested in knowing more? Leave your details and we'll get right back to
-      you.
     content_align: left
     form_position: bottom
     form_width: fifty
