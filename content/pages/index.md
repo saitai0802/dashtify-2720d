@@ -132,7 +132,7 @@ sections:
         default_value: Email
         options: []
         is_required: true
-    submit_label: 'Let''s '
+    submit_label: Let's talk
     align_vert: top
     padding_top: medium
     padding_bottom: medium
